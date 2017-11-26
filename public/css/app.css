@@ -1,0 +1,10 @@
+.header-bg-alt {
+  background-image: -webkit-gradient(linear, left top, left bottom, from(#F8F8EC), color-stop(80%, #E5E1FF));
+  background-image: linear-gradient(-180deg, #F8F8EC 0%, #E5E1FF 80%);
+  background-size: 1200px 950px;
+  background-repeat: repeat;
+  color: #4e4e4e;
+  background-position: center;
+  height: 100vh;
+}
+
