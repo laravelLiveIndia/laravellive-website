@@ -23,9 +23,12 @@
                 <div class="container">
                     <div class="topbar-left">
                         <button class="topbar-toggler">&#9776;</button>
+                        <a class="topbar-brand logo text-blue" href="#">
+                            Laravel In
+                        </a>
                     </div>
                     <div class="topbar-right">
-                        <ul class="topbar-nav nav" style="font-family:'Dosis';">
+                        <ul class="topbar-nav nav" style="font-family:'Titillium Web';">
                             <li class="nav-item"><a class="nav-link" href="#about" data-scrollto="about">About</a></li>
                             <li class="nav-item"><a class="nav-link" href="#speakers" data-scrollto="speakers">Speakers</a></li>
                             <li class="nav-item"><a class="nav-link" href="#" data-scrollto="home">Venue</a></li>
@@ -38,13 +41,13 @@
             </nav>
             <!-- END Topbar -->
             <!-- Header -->
-            <header class="header header-inverse pb-0 pt-0 h-fullscreen" style="background-image: url(assets/img/15.jpg)">
+            <header class="header header-inverse pb-0 pt-0 h-fullscreen" style="background-image: url(assets/img/15.jpg);">
                 <div class="header-overlay header-bg-alt"></div>
                 <div class="container">
                     <div class="row h-full">
-                        <div class="col-12 text-center align-self-center">
-                            <h1 class="fs-50 fw-600 lh-15 hidden-xs-down text-info" style="font-family:'Signika';">LARACON INDIA</h1>
-                            <p class="fs-20 text-dark" style="font-family:'Dosis';">
+                        <div class="col-12 text-center align-self-center px-20">
+                            <h1 class="fs-50 fw-600 lh-15 text-info" style="font-family:'Titillium Web';">LARACON INDIA</h1>
+                            <p class="fs-20 text-dark" style="font-family:'Titillium Web';">
                                 It's <span class="fw-600">Special</span> because, it brings the whole <span class="fw-600">community together</span>.</p>
                             <signup></signup>
                         </div>
@@ -54,38 +57,35 @@
             <!-- END Header -->
             <!-- Main container -->
             <main class="main-content">
-                <section class="section h-fullscreen" id="about">
-                    <div class="container pt-auto">
+                <section class="section h-fullscreen svg-back2" id="about">
+                    <div class="container">
                         <header class="section-header">
-                            <small><strong>About</strong></small>
-                            <h2>LaravelLive India</h2>
+                            <small><strong><i class="fa fa-info-circle fa-2x"></i></strong></small>
+                            <h2 style="font-family:'Titillium Web';" class="text-blue">LaravelLive India</h2>
                             <hr>
-                            <p class="lead text-justify">
-                                LaravelLive India is a full-day event being curated with an expected audience of about 300 in New Delhi . Our goal is to bring together bright minds to give talks that are idea-focused, and on a wide range of subjects in PHP Laravel, to foster learning, inspiration and provoke conversations that matter. 
+                            <p class="lead text-justify" style="font-family:'Titillium Web';">
+                                LaravelLive India is a full-day event being curated with an expected audience of about 300 in New Delhi. Our goal is to bring together bright minds to give talks that are idea-focused, and on a wide range of subjects in PHP Laravel, to foster learning, inspiration and provoke conversations that matter. 
                             </p>
-                            <p class="lead text-justify mt-70">
+                            <p class="lead text-justify mt-70" style="font-family:'Titillium Web';">
                                 Our Aim is to build larger Open Source community around PHP laravel. We will be guiding the new talent around how to learn and contribute to the open source technologies along with the top notch developers of the Ecosystem.
                             </p>
-                        </header>                
+                        </header>
                     </div>
                 </section>
-                <section class="section pt-20 bg-grey-lighter" id="speakers">
+                <section class="section pt-20 bg-grey-lighter svg-back2" id="speakers">
                     <div class="container">
                     <header class="section-header">
-                        <small>Team</small>
-                        <h2>Speakers</h2>
-                        <hr class="mb-0">
+                        <small><strong><i class="fa fa-microphone fa-2x"></i></strong></small>
+                        <h2 style="font-family:'Titillium Web';">Speakers</h2>
                     </header>
-
 
                     <div class="row gap-y">
                         <div class="col-12 col-md-6 col-lg-4 team-2">
-                            <div class="shadow-lg rounded-lg bg-white mr-30 ml-30 p-20">
+                            <div class="shadow-lg rounded-lg bg-white mr-30 ml-30 p-30">
                                 <a href="#">
-                                    <img class="shadow-lg mb-15" src="https://avatars3.githubusercontent.com/u/804684?v=3&s=130" alt="...">
+                                    <img class="shadow-lg" src="https://avatars3.githubusercontent.com/u/804684?v=3&s=150" alt="...">
                                 </a>
-                                <hr class="m-10">
-                                <h4>Marcel Pociot <small>Creator of <a href="#">BotMan</a></small></h4>
+                                <h6>Marcel Pociot <small>Creator of <a href="#">BotMan</a></small></h6>
                                 <div class="social social-gray">
                                     <a class="social-github" href="#"><i class="fa fa-github"></i></a>
                                     <a class="social-twitter" href="#"><i class="fa fa-twitter"></i></a>
@@ -95,7 +95,7 @@
 
 
                         <div class="col-12 col-md-6 col-lg-4 team-2">
-                            <div class="shadow-lg rounded-lg bg-white mr-30 ml-30 p-20">
+                            <div class="shadow-lg rounded-lg bg-white mr-30 ml-30 p-30">
                                 <a href="#">
                                     <img class="shadow-lg" src="https://avatars3.githubusercontent.com/u/19746749?v=3&s=150" alt="...">
                                 </a>
@@ -109,7 +109,7 @@
 
 
                         <div class="col-12 col-md-6 col-lg-4 team-2">
-                        <div class="shadow-lg rounded-lg bg-white mr-30 ml-30 p-20">
+                        <div class="shadow-lg rounded-lg bg-white mr-30 ml-30 p-30">
                             <a href="#">
                                 <img class="shadow-lg" src="https://avatars3.githubusercontent.com/u/12281411?v=3&s=150" alt="...">
                             </a>
@@ -123,7 +123,7 @@
 
 
                         <div class="col-12 col-md-6 col-lg-4 team-2">
-                        <div class="shadow-lg rounded-lg bg-white mr-30 ml-30 p-20">
+                        <div class="shadow-lg rounded-lg bg-white mr-30 ml-30 p-30">
                             <a href="#">
                                 <img class="shadow-lg" src="https://avatars3.githubusercontent.com/u/1410358?v=3&s=150" alt="...">
                             </a>
@@ -136,7 +136,7 @@
                         </div>
 
                         <div class="col-12 col-md-6 col-lg-4 team-2">
-                        <div class="shadow-lg rounded-lg bg-white mr-30 ml-30 p-20">
+                        <div class="shadow-lg rounded-lg bg-white mr-30 ml-30 p-30">
                             <a href="#">
                                 <img class="shadow-lg" src="https://avatars3.githubusercontent.com/u/483853?v=3&s=150" alt="...">
                             </a>
