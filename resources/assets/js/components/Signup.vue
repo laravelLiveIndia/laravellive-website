@@ -4,7 +4,7 @@
             <div class="input-group">
                 <input type="text" class="form-control ls-10" placeholder="E.g. user@example.com" style="font-family:'Titillium Web';">
                 <span class="input-group-btn">
-                <button class="btn text-white" style="background-color: #E57D69;" type="button">Subscribe</button>
+                <button class="btn text-white laravel-brand-bg"  type="button">Keep me updated</button>
                 </span>
             </div>
         </form>
@@ -15,7 +15,7 @@
 <script>
     export default {
         mounted() {
-            console.log('Component mounted.')
+            console.log('Component mounted')
         }
     }
 </script>

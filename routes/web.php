@@ -11,8 +11,6 @@
 |
 */
 
-Route::get('/', function () {
-    return view('welcome');
-});
-
-Route::view('/2018-1','home-new');
+Route::view('/','home-1');
+Route::view('/1','home-new');
+Route::view('/2','home-full');

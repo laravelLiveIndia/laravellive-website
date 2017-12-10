@@ -5,15 +5,16 @@
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
         <meta name="description" content="">
         <meta name="keywords" content="">
-        <title>Laravel Live India</title>
+        <title>Laravel Live</title>
+        
         <!-- Styles -->
         <link href="/css/app.css" rel="stylesheet">
         <link href="/css/vendor.css" rel="stylesheet">
         <link href="https://cdn.jsdelivr.net/npm/tailwindcss/dist/tailwind.min.css" rel="stylesheet">
 
         <!-- Favicons -->
-        <link rel="apple-touch-icon" href="favicon.png">
-        <link rel="icon" href="favicon.png">
+        <link rel="apple-touch-icon" href="assets/img/apple-touch-icon.png">
+        <link rel="icon" href="assets/img/favicon.png">
         <style type="text/css">
             .laravel-brand-text{
                 color: #f55247;
@@ -34,8 +35,8 @@
                 <div class="container">
                     <div class="topbar-left">
                         <button class="topbar-toggler">&#9776;</button>
-                        <!-- <a class="topbar-brand logo laravel-brand-text" href="#">
-                            LaravelLive
+                        <!-- <a class="topbar-brand logo text-blue" href="#">
+                            Laravel In
                         </a> -->
                     </div>
                     <div class="topbar-right">
@@ -52,15 +53,14 @@
             </nav>
             <!-- END Topbar -->
             <!-- Header -->
-            <header class="header header-inverse bg-contain bg-center-bottom bg-grey-lighter pb-0 pt-0 h-fullscreen" style="background-image: url(images/bg/india.png);">
-                <!-- assets/img/15.jpg -->
+            <header class="header header-inverse pb-0 pt-0 h-fullscreen" style="background-image: url(assets/img/15.jpg);">
                 <div class="header-overlay header-bg-alt"></div>
                 <div class="container">
                     <div class="row h-full">
                         <div class="col-12 text-center align-self-center px-20">
-                            <h1 class="fs-50 fw-600 lh-15 text-info" style="font-family:'Titillium Web';">Laravel<span class="laravel-brand-text">Live</span> </h1>
+                            <h1 class="fs-50 fw-600 lh-15 text-info" style="font-family:'Titillium Web';">Laravel<span class="laravel-brand-text">Live</span></h1>
                             <small>A PHP Laravel Conference</small>
-                            <p class="fs-20 text-grey-darker" style="font-family:'Dosis';">
+                            <p class="fs-20 text-dark" style="font-family:'Dosis';">
                                 It's <span class="fw-600">Special</span> because, it brings the whole <span class="fw-600">community together</span>.</p>
                             <signup></signup>
                         </div>
