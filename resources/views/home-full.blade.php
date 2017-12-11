@@ -3,7 +3,7 @@
     <head>
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-         <meta name="description" content="LaravelLive is the first annual gathering of web developers and companies who are passionate about building amazing applications with the Laravel PHP framework.">
+        <meta name="description" content="LaravelLive is the first annual gathering of web developers and companies who are passionate about building amazing applications with the Laravel PHP framework.">
         <meta name="keywords" content="Laravel,LaraveLive, LaraveLive India,India, Conference, PHP, PHP framework, Speakers, PHP Conference, New Delhi, March 2017, PHP conference India, Conference in March, Lalit Vijay, Marcel Pociot, Frederick Vanbrabant, Hannes Van De Vreken, Freek Van der Herten, Technical Conference">
         <meta http-equiv="Cache-control" content="public">
         <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -11,7 +11,7 @@
         <meta property="og:type" content="article">
         <meta property="og:title" content="LaravelLive - India, A Laravel Conference">
         <meta property="og:description" content="LaravelLive is the first annual gathering of web developers and companies who are passionate about building amazing applications with the Laravel PHP framework.">
-        <title>Laravel Live India</title>
+        <title>LaravelLive India, Laravel Conference</title>
         <!-- Styles -->
         <link href="/css/app.css" rel="stylesheet">
         <link href="/css/vendor.css" rel="stylesheet">
@@ -20,18 +20,6 @@
         <!-- Favicons -->
         <link rel="apple-touch-icon" href="favicon.png">
         <link rel="icon" href="favicon.png">
-        <style type="text/css">
-            .laravel-brand-text{
-                color: #f55247;
-                }
-                .laravel-brand-bg{
-                background-color: #f55247;
-                color: #ffffff;
-                }
-            .bg-center-bottom{
-                background-position: center bottom;
-            }
-        </style>
     </head>
     <body id="home" class="header-bg-alt">
         <div id="app" class="shadow-md">

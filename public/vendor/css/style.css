@@ -80,3 +80,15 @@
             box-shadow: 0 0 0 0 rgba(204,169,44, 0);
         }
     }
+
+
+.laravel-brand-text{
+    color: #f55247;
+    }
+    .laravel-brand-bg{
+    background-color: #f55247;
+    color: #ffffff;
+    }
+.bg-center-bottom{
+    background-position: center bottom;
+}
