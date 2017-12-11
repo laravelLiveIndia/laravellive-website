@@ -11,6 +11,4 @@
 |
 */
 
-Route::view('/','home-1');
-Route::view('/1','home-new');
-Route::view('/2','home-full');
+Route::view('/', 'home-full');

@@ -1,7 +1,7 @@
 @charset "UTF-8";
-@import url("https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,800|Dosis:300,600");
+@import url("https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,800|Dosis:300,600|Raleway:300,400,600");
 body {
-  font-family: "Open Sans", sans-serif;
+  font-family: "Raleway","Raleway","Open Sans", sans-serif;
   color: #535353;
   font-weight: 300;
   font-size: 0.9375rem;
@@ -26,7 +26,7 @@ body {
 }
 
 button, input, optgroup, select, textarea {
-  font-family: "Open Sans", sans-serif;
+  font-family: "Raleway","Open Sans", sans-serif;
   font-weight: 300;
 }
 
@@ -82,7 +82,7 @@ small,
 
 h1, h2, h3, h4, h5, h6,
 .h1, .h2, .h3, .h4, .h5, .h6 {
-  font-family: "Dosis", "Open Sans", sans-serif;
+  font-family:  "Raleway","Open Sans", sans-serif;
   font-weight: 600;
   color: #37404d;
   letter-spacing: 1px;
@@ -122,14 +122,14 @@ h1 a:hover, h2 a:hover, h3 a:hover, h4 a:hover, h5 a:hover, h6 a:hover,
 }
 
 h6, .h6 {
-  font-family: "Open Sans", sans-serif;
+  font-family: "Raleway","Open Sans", sans-serif;
   letter-spacing: 0;
   font-weight: 400;
   font-size: 0.9375rem;
 }
 
 .heading-alt {
-  font-family: "Open Sans", sans-serif;
+  font-family: "Raleway","Open Sans", sans-serif;
   font-weight: 600;
   letter-spacing: 0;
 }
@@ -269,7 +269,7 @@ pre {
 }
 
 .typed-cursor {
-  font-family: "Open Sans", sans-serif;
+  font-family: "Raleway","Open Sans", sans-serif;
   vertical-align: text-bottom;
   opacity: 1;
   -webkit-animation: blink 0.7s infinite;
@@ -1013,7 +1013,7 @@ video {
   padding-left: 20px;
   padding-right: 20px;
   background-color: #fcfdfe;
-  font-family: "Open Sans", sans-serif;
+  font-family: "Raleway","Open Sans", sans-serif;
   letter-spacing: 0;
 }
 
@@ -4453,7 +4453,7 @@ textarea.form-control-sm {
 }
 
 .shop-item .item-details .item-price {
-  font-family: "Dosis", "Open Sans", sans-serif;
+  font-family:  "Raleway","Open Sans", sans-serif;
   font-weight: 100;
   font-size: 25px;
   letter-spacing: 1px;
@@ -9046,12 +9046,12 @@ a.text-danger:hover, a.text-danger:focus {
 
 .font-body,
 .font-opensans {
-  font-family: "Open Sans", sans-serif;
+  font-family: "Raleway","Open Sans", sans-serif;
 }
 
 .font-title,
 .font-raleway {
-  font-family: "Dosis", "Open Sans", sans-serif;
+  font-family:  "Raleway","Open Sans", sans-serif;
 }
 
 .fs-8 {

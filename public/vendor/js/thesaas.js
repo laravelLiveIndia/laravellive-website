@@ -8,7 +8,7 @@
 +function($, window){
 
   var thesaas = {
-    name:       'TheSaaS',
+    name:       'vrajroham',
     version:    '1.4.0',
   };
 
@@ -52,7 +52,7 @@
 
 
     // Google map
-    // 
+    //
     if ( $('[data-provide~="map"]').length && window["google.maps.Map"] === undefined ) {
       $.getScript("https://maps.googleapis.com/maps/api/js?key="+ thesaas.defaults.googleApiKey +"&callback=thesaas.map");
     }
@@ -150,7 +150,7 @@
 
 
     // Drawer
-    // 
+    //
     $(document).on( 'click', '.drawer-toggler, .drawer-close, .drawer-backdrop', function() {
       $('body').toggleClass( 'drawer-open' );
     } );
@@ -183,7 +183,7 @@
       parallax.parallax( options );
 
     });
-    
+
   }
 
 
@@ -443,7 +443,7 @@
       if ( '#' == link.attr('href') ) {
         e.preventDefault();
       }
-      
+
       siblings.removeClass('show');
       siblings.find('.nav-item.show').removeClass('show');
       item.toggleClass('show');
@@ -451,7 +451,7 @@
 
 
     // Topbar toggler
-    // 
+    //
     $(document).on('click', '.topbar-toggler', function(){
       //body.toggleClass('topbar-reveal').prepend('<div class="topbar-backdrop"></div>');
       body.toggleClass('topbar-reveal');
@@ -517,7 +517,7 @@
   thesaas.contact = function() {
 
     $(document).on('click', '#contact-send', function(){
-      
+
       var name = $("#contact-name").val();
       var email = $("#contact-email").val();
       var message = $("#contact-message").val();
@@ -558,7 +558,7 @@
   // Mailer function
   //----------------------------------------------------/
   thesaas.mailer = function() {
-    
+
     var validEmail = /^(([^<>()\[\]\\.,;:\s@"]+(\.[^<>()\[\]\\.,;:\s@"]+)*)|(".+"))@((\[[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}])|(([a-zA-Z\-0-9]+\.)+[a-zA-Z]{2,}))$/;
 
     $('[data-form="mailer"]').each(function(){
@@ -570,7 +570,7 @@
       var message_form_group = message.closest('.form-group');
 
       form.on('submit', function(){
-        
+
         form.children('.alert-danger').remove();
 
         if ( email.length ) {
