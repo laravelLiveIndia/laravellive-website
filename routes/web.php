@@ -12,4 +12,4 @@
 */
 
 Route::view('/', 'home-full');
-Route::get('subscribe','SubscriptionController@subscribe')->name('subscribe');
+Route::post('subscribe','SubscriptionController@subscribe')->name('subscribe');

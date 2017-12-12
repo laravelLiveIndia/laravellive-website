@@ -18,7 +18,7 @@
         <link href="/css/app.css" rel="stylesheet">
         <link href="/css/vendor.css" rel="stylesheet">
         <link href="https://cdn.jsdelivr.net/npm/tailwindcss/dist/tailwind.min.css" rel="stylesheet">
-
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" />
         <!-- Favicons -->
         <link rel="apple-touch-icon" href="favicon.png">
         <link rel="icon" href="favicon.png">

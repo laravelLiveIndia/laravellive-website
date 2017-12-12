@@ -9,6 +9,10 @@ class SubscriptionController extends Controller
 {
     public function subscribe(Request $request)
     {
-    	Newsletter::subscribe('vaibhavraj.roham@gmail.com');
+    	$this->validate($request,[
+    		'email' => 'required|email'
+    	]);
+    	Newsletter::subscribe($request->email);
+    	return response()->json(['status'=> 'OK', 'message' => 'Subscribed!']);
     }
 }
