@@ -5032,7 +5032,7 @@ ul.flexbox {
 
 @media (max-width: 767px) {
   .topbar-brand {
-    max-width: 150px;
+    max-width: 250px;
   }
 }
 

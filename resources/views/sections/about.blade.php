@@ -18,10 +18,10 @@
                     <hr class="mt-15 mb-15">
 
                     <ul class="text-left titillium" style="line-height: 35px;">
-                        <li><span class="fw-600 text-info">Start CFP</span> - Dec 11<sup>th</sup>, 2017 <span class="pulse"></span></li>
-                        <li><span class="fw-600 text-info">End CFP </span> - Jan 10<sup>th</sup>, 2018</li>
-                        <li><span class="fw-600 text-info">Talks Announced</span> - Jan 20<sup>th</sup>, 2018</li>
-                        <li><span class="fw-600 text-info">Conference</span> - March 17<sup>th</sup>, 2018</li>
+                        <li><a href="https://www.papercall.io/laravellive" class="fw-600 text-info">Start CFP</a> - Dec 11<sup>th</sup>, 2017</li>
+                        <li><a href="https://www.papercall.io/laravellive" class="fw-600 text-info">End CFP </a> - Jan 10<sup>th</sup>, 2018</li>
+                        <li><a class="fw-600 text-info">Talks Announced</a> - Jan 20<sup>th</sup>, 2018</li>
+                        <li><a href="#venue" class="fw-600 text-info">Conference</a> - March 17<sup>th</sup>, 2018</li>
                     </ul>
                 </div>
                 <div class="shadow-md rounded-lg bg-white p-10 mt-20  border-t-4 laravel-brand-border">
