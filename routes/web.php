@@ -13,3 +13,4 @@
 
 Route::view('/', 'home-full');
 Route::post('subscribe','SubscriptionController@subscribe')->name('subscribe');
+Route::get('get-members','SubscriptionController@getMembers')->name('get-members');

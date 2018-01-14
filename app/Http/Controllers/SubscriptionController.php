@@ -15,4 +15,9 @@ class SubscriptionController extends Controller
     	Newsletter::subscribe($request->email);
     	return response()->json(['status'=> 'OK', 'message' => 'Subscribed!']);
     }
+    public function getMembers(Request $request)
+    {
+    	$api = Newsletter::getApi();
+    	dd($api->get('lists/ca865692f4/members'));
+    }
 }

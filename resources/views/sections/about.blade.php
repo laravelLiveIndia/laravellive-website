@@ -12,8 +12,10 @@
                     &nbsp;&nbsp;&nbsp;Our Aim is to build larger Open Source community around PHP laravel. We will be guiding the new talent around how to learn and contribute to the open source technologies along with the top notch developers of the Ecosystem.
                 </p>
             </div>
+
             <div class="col-md-4">
-                <div class="shadow-md rounded-lg bg-white p-10  border-t-4 laravel-brand-border">
+                <hr class="md:hidden lg:hidden xl:hidden">
+                <div class="shadow-md rounded-lg bg-white p-10  border-t-2 laravel-brand-border">
                     <h5 class="titillium text-grey-darker fw-600">Important Dates  </h5>
                     <hr class="mt-15 mb-15">
 
@@ -24,7 +26,7 @@
                         <li><a href="#venue" class="fw-600 text-info">Conference</a> - March 17<sup>th</sup>, 2018</li>
                     </ul>
                 </div>
-                <div class="shadow-md rounded-lg bg-white p-10 mt-20  border-t-4 laravel-brand-border">
+                <div class="shadow-md rounded-lg bg-white p-10 mt-20  border-t-2 laravel-brand-border">
 
                     <h5 class="titillium text-grey-darker fw-600">More Information</h5>
                     <hr class="mt-15 mb-15">
