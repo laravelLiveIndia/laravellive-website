@@ -3,14 +3,14 @@
     <head>
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-        <meta name="description" content="LaravelLive is the first annual gathering of web developers and companies who are passionate about building amazing applications with the Laravel PHP framework.">
-        <meta name="keywords" content="Laravel,LaraveLive, LaraveLive India,India, Conference, PHP, PHP framework, Speakers, PHP Conference, New Delhi, March 2017, PHP conference India, Conference in March, Lalit Vijay, Marcel Pociot, Frederick Vanbrabant, Hannes Van De Vreken, Freek Van der Herten, Technical Conference">
+        <meta name="description" content="LaravelLive is the second annual gathering of web developers and companies who are passionate about building amazing applications with the Laravel PHP framework.">
+        <meta name="keywords" content="Laravel,LaraveLive, LaraveLive India,India, Conference, PHP, PHP framework, Speakers, PHP Conference, New Delhi, March 2018, PHP conference India, Conference in March, Technical Conference">
         <meta http-equiv="Cache-control" content="public">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <meta property="og:url" content="http://laravellive.in">
         <meta property="og:type" content="article">
         <meta property="og:title" content="LaravelLive - India, A Laravel Conference">
-        <meta property="og:description" content="LaravelLive is the first annual gathering of web developers and companies who are passionate about building amazing applications with the Laravel PHP framework.">
+        <meta property="og:description" content="LaravelLive is the second annual gathering of web developers and companies who are passionate about building amazing applications with the Laravel PHP framework.">
         <meta name="csrf-token" content="{{ csrf_token() }}">
         <title>LaravelLive India, Laravel Conference</title>
 

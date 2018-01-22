@@ -2,9 +2,8 @@
     <div class="container">
         <div class="topbar-left">
             <button class="topbar-toggler">&#9776;</button>
-            <a class="topbar-brand laravel-brand-text" href="#" >
-                <h6 class="fw-100 lh-15 brand-name" style="color: #636b6f;font-size: 1.3em;letter-spacing: 1.5px;">
-                    Laravel<span class="laravel-brand-text fw-600">Live</span> </h6>
+            <a class="topbar-brand logo laravel-brand-text" href="https://in.explara.com/e/laravelliveindia" >
+                <span class="pulse"></span> BUY YOUR TICKETS
             </a>
         </div>
         <div class="topbar-right">
