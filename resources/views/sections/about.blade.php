@@ -18,11 +18,10 @@
                 <div class="shadow-md rounded-lg bg-white p-10  border-t-2 laravel-brand-border">
                     <h5 class="titillium text-grey-darker fw-600">Important Dates  </h5>
                     <hr class="mt-15 mb-15">
-
                     <ul class="text-left titillium" style="line-height: 35px;">
                         <li><a href="https://www.papercall.io/laravellive" class="fw-600 text-info">Start CFP</a> - Dec 11<sup>th</sup>, 2017</li>
                         <li><a href="https://www.papercall.io/laravellive" class="fw-600 text-info">End CFP </a> - Jan 10<sup>th</sup>, 2018</li>
-                        <li><a class="fw-600 text-info">Talks Announced</a> - Jan 20<sup>th</sup>, 2018</li>
+                        <li><a class="fw-600 text-info">Talks Announcement</a> - Jan 31<sup>th</sup>, 2018</li>
                         <li><a href="#venue" class="fw-600 text-info">Conference</a> - March 17<sup>th</sup>, 2018</li>
                     </ul>
                 </div>
