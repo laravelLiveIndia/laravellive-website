@@ -3,7 +3,7 @@
                 <div class="row gap-y align-items-center">
                   <div class="col-12 col-lg-3">
                     <p class="text-center text-lg-left">
-                      &nbsp; Made with <i class="fa fa-heart text-red"></i> by <a href="https://twitter.com/vrajroham">vrajroham</a>
+                      &nbsp; Made with <i class="fa fa-heart text-red"></i> by <a href="https://vrajroham.me">vrajroham</a>
                     </p>
                   </div>
                   
