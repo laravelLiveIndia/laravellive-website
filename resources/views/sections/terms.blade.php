@@ -18,7 +18,7 @@
           <p>No refunds are due to tickets purchased.</p>
           <p>In case you do not show on the day of the event, you are not eligible for a refund.</p>
 
-          <p>If you want to give your ticket to another person, please contact us on <code>lalit@laravellive.com</code> so we can change the contact information.</p>
+          <p>If you want to give your ticket to another person, please contact us on <code>me@lalitvijay.xyz</code> so we can change the contact information.</p>
 
           <br>
 
