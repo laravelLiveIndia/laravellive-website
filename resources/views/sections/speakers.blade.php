@@ -22,7 +22,7 @@
                         <div class="col-12 col-md-3 col-lg-4 team-2">
                             <div class="shadow-lg rounded-lg bg-white mr-30 ml-30 p-30">
                                 <a href="http://shawnmc.cool">
-                                    <img class="shadow-lg" src="https://en.gravatar.com/userimage/1662764/7f56d83650e4450520a2278b9348c70a.jpg?size=768" alt="...">
+                                    <img class="shadow-lg" src="https://avatars2.githubusercontent.com/u/560749?s=150&v=3" alt="...">
                                 </a>
                                 <h5>Shawn McCool <small>Director at <a href="https://humanmusic.eu">Human Music</a></small></h5>
                                 <div class="social social-gray">
