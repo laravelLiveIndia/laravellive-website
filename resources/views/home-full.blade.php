@@ -37,7 +37,7 @@
             <!-- Main container -->
             <main class="main-content">
                 @include('sections.about')
-                {{-- @include('sections.speakers') --}}
+                @include('sections.speakers')
                 @include('sections.venue')
             </main>
             <!-- END Main container -->
