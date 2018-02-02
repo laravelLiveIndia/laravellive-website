@@ -135,3 +135,44 @@
             box-shadow: 0 0 0 0 rgba(204,169,44, 0);
         }
     }
+
+
+    .pulse-flock {
+        margin:5px;
+        display: inline-block;
+        border-radius: 50%;
+        background: #ffffff;
+        cursor: pointer;
+        box-shadow: 0 0 0 rgb(10,190,81);
+        animation: pulse-flock 2s infinite;
+        vertical-align: middle;
+    }
+    .pulse-flock:hover {
+        animation: none;
+    }
+
+    @-webkit-keyframes pulse-flock {
+        0% {
+            -webkit-box-shadow: 0 0 0 0 rgb(10,190,81);
+        }
+        70% {
+            -webkit-box-shadow: 0 0 0 20px rgb(10,190,81, 0);
+        }
+        100% {
+            -webkit-box-shadow: 0 0 0 0 rgb(10,190,81);
+        }
+    }
+    @keyframes pulse-flock {
+        0% {
+            -moz-box-shadow: 0 0 0 0 rgb(10,190,81);
+            box-shadow: 0 0 0 0 rgb(10,190,81);
+        }
+        70% {
+            -moz-box-shadow: 0 0 0 10px rgb(10,190,81, 0);
+            box-shadow: 0 0 0 10px rgb(10,190,81, 0);
+        }
+        100% {
+            -moz-box-shadow: 0 0 0 0 rgb(10,190,81, 0);
+            box-shadow: 0 0 0 0 rgb(10,190,81, 0);
+        }
+    }

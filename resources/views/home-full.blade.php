@@ -39,6 +39,10 @@
                 @include('sections.about')
                 @include('sections.speakers')
                 @include('sections.venue')
+                <div class=" fixed pin-r pin-b mr-20 mb-40">                
+                    <a href="//LaravelLiveIndia.flock.com?i=8jyqe5q1seeq81j5" target="_blank" class="btn btn-success btn-round">Join us on Flock</a>
+                    <a href="//LaravelLiveIndia.flock.com?i=8jyqe5q1seeq81j5" target="_blank"><img src="{{ asset('images/flock.png') }}" class="pulse-flock" height="38"></a>
+                </div>
             </main>
             <!-- END Main container -->
 
