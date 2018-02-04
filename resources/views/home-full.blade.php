@@ -11,6 +11,7 @@
         <meta property="og:type" content="article">
         <meta property="og:title" content="LaravelLive - India, A Laravel Conference">
         <meta property="og:description" content="LaravelLive is the second annual gathering of web developers and companies who are passionate about building amazing applications with the Laravel PHP framework.">
+        <meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/LaravelLogo.png/1200px-LaravelLogo.png" />
         <meta name="csrf-token" content="{{ csrf_token() }}">
         <title>LaravelLive India, Laravel Conference</title>
 
