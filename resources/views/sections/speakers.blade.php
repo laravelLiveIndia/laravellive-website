@@ -80,7 +80,7 @@
                                 <a href="https://www.neoighodaro.com">
                                     <img class="shadow-lg" src="https://avatars3.githubusercontent.com/u/807318?s=150&v=3" alt="..." style="height: 150px; width: 150px;">
                                 </a>
-                                <h5>Neo Ighodaro <small>Chief Technology Officer (CTO) at <a href="https://hotels.ng">Hotels.NG</a></small></h5>
+                                <h5>Neo Ighodaro <small>Chief Technical Officer at <a href="https://hotels.ng">Hotels.NG</a></small></h5>
                                 <div class="social social-gray">
                                     <a class="social-github" href="https://github.com/neoighodaro"><i class="fa fa-github"></i></a>
                                     <a class="social-twitter" href="https://twitter.com/NeoIghodaro"><i class="fa fa-twitter"></i></a>
