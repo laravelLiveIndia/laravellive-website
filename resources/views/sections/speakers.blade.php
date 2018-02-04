@@ -69,8 +69,8 @@
                                 </a>
                                 <h5>Sarthak Shrivastava <small>Founder of <a href="https://bitfumes.com/">Bitfumes</a></small></h5>
                                 <div class="social social-gray">
-                                    <a class="social-github" href="https://github.com/vrajroham"><i class="fa fa-github"></i></a>
-                                    <a class="social-twitter" href="https://twitter.com/vrajroham"><i class="fa fa-twitter"></i></a>
+                                    <a class="social-github" href="https://github.com/BitFumes"><i class="fa fa-github"></i></a>
+                                    <a class="social-twitter" href="https://twitter.com/BitFumes"><i class="fa fa-twitter"></i></a>
                                 </div>
                             </div>
                         </div>
