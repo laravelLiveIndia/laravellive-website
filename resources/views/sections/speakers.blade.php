@@ -77,13 +77,13 @@
 
                         <div class="col-12 col-md-3 col-lg-4 team-2">
                             <div class="shadow-lg rounded-lg bg-white mr-30 ml-30 p-30">
-                                <a href="#">
-                                    <img class="shadow-lg" src="http://via.placeholder.com/150/ccd3e0/ffffff?text=%81" alt="...">
+                                <a href="https://www.neoighodaro.com">
+                                    <img class="shadow-lg" src="https://avatars3.githubusercontent.com/u/807318?s=150&v=3" alt="..." style="height: 150px; width: 150px;">
                                 </a>
-                                <h5>Announcing Soon <small>Stay tuned <a href="https://twitter.com/laravellivein">
-                                            @laravellivein <i class="fa fa-twitter"></i></a></small></h5>
+                                <h5>Neo Ighodaro <small>Chief Technology Officer (CTO) at <a href="https://hotels.ng">Hotels.NG</a></small></h5>
                                 <div class="social social-gray">
-                                    <span class="pulse"></span>
+                                    <a class="social-github" href="https://github.com/neoighodaro"><i class="fa fa-github"></i></a>
+                                    <a class="social-twitter" href="https://twitter.com/NeoIghodaro"><i class="fa fa-twitter"></i></a>
                                 </div>
                             </div>
                         </div>
