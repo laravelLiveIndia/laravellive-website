@@ -64,6 +64,19 @@
 
                         <div class="col-12 col-md-3 col-lg-4 team-2">
                             <div class="shadow-lg rounded-lg bg-white mr-30 ml-30 p-30">
+                                <a href="https://bitfumes.com/">
+                                    <img class="shadow-lg" src="{{ asset('images/sarthak.jpg') }}" alt="..." style="height: 150px; width: 150px;">
+                                </a>
+                                <h5>Sarthak Shrivastava <small>Founder of <a href="https://bitfumes.com/">Bitfumes</a></small></h5>
+                                <div class="social social-gray">
+                                    <a class="social-github" href="https://github.com/vrajroham"><i class="fa fa-github"></i></a>
+                                    <a class="social-twitter" href="https://twitter.com/vrajroham"><i class="fa fa-twitter"></i></a>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="col-12 col-md-3 col-lg-4 team-2">
+                            <div class="shadow-lg rounded-lg bg-white mr-30 ml-30 p-30">
                                 <a href="#">
                                     <img class="shadow-lg" src="http://via.placeholder.com/150/ccd3e0/ffffff?text=%81" alt="...">
                                 </a>
