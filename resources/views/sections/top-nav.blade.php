@@ -10,9 +10,8 @@
             <ul class="topbar-nav nav" style="">
                 <li class="nav-item"><a class="nav-link" href="#about" data-scrollto="about">About</a></li>
                 <li class="nav-item"><a class="nav-link" href="#speakers" data-scrollto="speakers">Speakers</a></li>
-                <li class="nav-item"><a class="nav-link" href="#" data-scrollto="venue">Venue</a></li>
-                
-                {{-- <li class="nav-item"><a class="nav-link" href="#" data-scrollto="schedule">Schedule</a></li> --}}
+                <li class="nav-item"><a class="nav-link" href="#" data-scrollto="venue">Venue</a></li>                
+                <li class="nav-item"><a class="nav-link" href="#" data-scrollto="timeline">Timeline</a></li>
                 <li class="nav-item"><a class="nav-link" href="Sponsor.pdf" target="_blank">Sponsors</a></li>
                 {{-- <li class="nav-item"><a class="nav-link" href="#" data-scrollto="contact">Contact</a></li> --}}
             </ul>
