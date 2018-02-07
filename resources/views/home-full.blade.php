@@ -39,6 +39,9 @@
             <main class="main-content">
                 @include('sections.about')
                 @include('sections.speakers')
+                <br>
+
+                @include('sections.partners')
                 @include('sections.venue')
                 <div class=" fixed pin-r pin-b mr-20 mb-40">                
                     <a href="//LaravelLiveIndia.flock.com?i=8jyqe5q1seeq81j5" target="_blank" class="btn btn-success btn-round">Join our LaravelLive India community</a>
