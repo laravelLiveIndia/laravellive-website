@@ -4,26 +4,26 @@
         <h2 style="" class="text-grey-darkest">Timeline</h2>
     </header>
     <section id="cd-timeline" class="cd-container">
-        <div class="cd-timeline-block">
-            <a class="cd-timeline-img cd-picture" href="https://murze.be/">
+        <div class="cd-timeline-block" id="freek">
+            <a class="cd-timeline-img cd-picture" href="#" data-scrollto="freek">
                 <img src="https://avatars3.githubusercontent.com/u/483853?v=3&s=150">
             </a>
             <!-- cd-timeline-img -->
             <div class="cd-timeline-content shadow-lg border-t-2 border-indigo-light">
-                <h2>Freek Van der Herten <span class="ml-10 text-grey"><a href="https://twitter.com/freekmurze" class="text-grey"><i class="fa fa-twitter "></i></a></h2>
+                <h2>Freek Van der Herten</h2>
                 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit</p>
                  <span class="cd-date">10:00 AM</span>
             </div>
             <!-- cd-timeline-content -->
         </div>
         <!-- cd-timeline-block -->
-        <div class="cd-timeline-block">
-            <a class="cd-timeline-img cd-picture" href="http://shawnmc.cool/">
+        <div class="cd-timeline-block" id="shawn">
+            <a class="cd-timeline-img cd-picture" href="#" data-scrollto="shawn">
                 <img src="https://avatars2.githubusercontent.com/u/560749?s=150&v=3">
             </a>
             <!-- cd-timeline-img -->
             <div class="cd-timeline-content shadow-lg border-t-2 border-indigo-light">
-                <h2>Shawn McCool <span class="ml-10 text-grey"><a href="https://twitter.com/ShawnMcCool" class="text-grey"><i class="fa fa-twitter "></i></a></span></h2>
+                <h2>Shawn McCool</h2>
                 <div class="pull-right"></div>
                 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. </p>
                 <span class="cd-date">11:00 AM</span>
@@ -31,52 +31,52 @@
             <!-- cd-timeline-content -->
         </div>
         <!-- cd-timeline-block -->
-        <div class="cd-timeline-block">
-            <a class="cd-timeline-img cd-picture" href="https://hannesvdvreken.com/">
+        <div class="cd-timeline-block" id="hannes">
+            <a class="cd-timeline-img cd-picture" href="#" data-scrollto="hannes">
                 <img src="https://avatars2.githubusercontent.com/u/1410358?s=150&v=3">
             </a>
             <!-- cd-timeline-img -->
             <div class="cd-timeline-content shadow-lg border-t-2 border-indigo-light">
-                <h2>Hannes Van De Vreken <span class="ml-10 text-grey"><a href="https://twitter.com/hannesvdvreken" class="text-grey"><i class="fa fa-twitter "></i></a></h2>
+                <h2>Hannes Van De Vreken</h2>
                 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. </p>
                 <span class="cd-date">12:00 AM</span>
             </div>
             <!-- cd-timeline-content -->
         </div>
         <!-- cd-timeline-block -->
-        <div class="cd-timeline-block">
-            <a class="cd-timeline-img cd-picture" href="https://vrajroham.me/">
+        <div class="cd-timeline-block" id="vaibhav">
+            <a class="cd-timeline-img cd-picture" href="#" data-scrollto="vaibhav">
                 <img src="https://avatars0.githubusercontent.com/u/12662173?s=150&v=3" >
             </a>
             <!-- cd-timeline-img -->
             <div class="cd-timeline-content shadow-lg border-t-2 border-indigo-light">
-                <h2>Vaibhavraj Roham <span class="ml-10 text-grey"><a href="https://twitter.com/vrajroham" class="text-grey"><i class="fa fa-twitter "></i></a></h2>
+                <h2>Vaibhavraj Roham</h2>
                 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. </p>
                 <span class="cd-date">1:00 PM</span>
             </div>
             <!-- cd-timeline-content -->
         </div>
         <!-- cd-timeline-block -->
-        <div class="cd-timeline-block">
-            <a class="cd-timeline-img cd-picture" href="https://bitfumes.com/">
+        <div class="cd-timeline-block" id="sarthak">
+            <a class="cd-timeline-img cd-picture" href="#" data-scrollto="sarthak">
                 <img src="http://laravellive.in/images/sarthak.jpg">
             </a>
             <!-- cd-timeline-img -->
             <div class="cd-timeline-content shadow-lg border-t-2 border-indigo-light">
-                <h2>Sarthak Shrivastava <span class="ml-10 text-grey"><a href="https://twitter.com/BitFumes" class="text-grey"><i class="fa fa-twitter "></i></a></h2>
+                <h2>Sarthak Shrivastava</h2>
                 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. </p>
                 <span class="cd-date">2:00 PM</span>
             </div>
             <!-- cd-timeline-content -->
         </div>
         <!-- cd-timeline-block -->
-        <div class="cd-timeline-block">
-            <a class="cd-timeline-img cd-picture" href="https://www.neoighodaro.com/">
+        <div class="cd-timeline-block" id="neo">
+            <a class="cd-timeline-img cd-picture" href="#" data-scrollto="neo">
                 <img src="https://avatars3.githubusercontent.com/u/807318?s=150&v=3" >
             </a>
             <!-- cd-timeline-img -->
             <div class="cd-timeline-content shadow-lg border-t-2 border-indigo-light">
-                <h2>Neo Ighodaro <span class="ml-10 text-grey"><a href="https://twitter.com/neoighodaro" class="text-grey"><i class="fa fa-twitter "></i></a></h2>
+                <h2>Neo Ighodaro</h2>
                 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. </p>
                 <span class="cd-date">3:00 PM</span>
             </div>
@@ -85,5 +85,8 @@
         <!-- cd-timeline-block -->
     </section>
     <!-- cd-timeline -->
+    <div class="container">
+    <h5 class="text-center">That's all folks</h5>
+    </div>
 </section>
 
