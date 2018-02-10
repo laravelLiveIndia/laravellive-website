@@ -4,7 +4,7 @@
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
         <meta name="description" content="LaravelLive is the second annual gathering of web developers and companies who are passionate about building amazing applications with the Laravel PHP framework.">
-        <meta name="keywords" content="Laravel,LaraveLive, LaraveLive India,India, Conference, PHP, PHP framework, Speakers, PHP Conference, New Delhi, March 2018, PHP conference India, Conference in March, Technical Conference">
+        <meta name="keywords" content="Laravel,LaraveLive, LaraveLive India,India, Conference, PHP, PHP framework, Speakers, PHP Conference, New Delhi, March 2018, PHP conference India, Conference on 17 March, Hannes Van De Vreken, Freek Van der Herten, Shawn McCool, Vaibhavraj Roham, Sarthak Shrivastava, Neo Ighodaro, Technical Conference">
         <meta http-equiv="Cache-control" content="public">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <meta property="og:url" content="http://laravellive.in">
@@ -43,6 +43,7 @@
 
                 @include('sections.partners')
                 @include('sections.venue')
+                @include('sections.timeline')
                 <div class=" fixed pin-r pin-b mr-20 mb-40">                
                     <a href="//LaravelLiveIndia.flock.com?i=8jyqe5q1seeq81j5" target="_blank" class="btn btn-success btn-round">Join our LaravelLive India community</a>
                     <a href="//LaravelLiveIndia.flock.com?i=8jyqe5q1seeq81j5" target="_blank"><img src="{{ asset('images/flock.png') }}" class="pulse-flock" height="38"></a>
