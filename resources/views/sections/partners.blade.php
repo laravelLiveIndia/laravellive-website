@@ -2,7 +2,8 @@
     <div class="container">
         <header class="section-header">
             <small><strong><i class="fa fa-handshake-o fa-2x"></i></strong></small>
-            <h2 style="">Partners</h2>
+            <h2 style="">Sponsors</h2>
+            <p>We are proud to have them with us</p>
         </header>
 
         <div class="row gap-y">
@@ -15,10 +16,6 @@
                         Laravel Certification
                         <small>Title Sponsor</small>
                     </h5>
-                    <div class="social social-gray">
-                        <a class="social-github" href="https://laravel.com/certification/"><i class="fa fa-globe"></i></a>
-                        <a class="social-twitter" href="https://twitter.com/LaravelCert"><i class="fa fa-twitter"></i></a>
-                    </div>
                 </div>
             </div>
 
@@ -31,10 +28,6 @@
                         Flock
                         <small>Silver Sponsor</small>
                     </h5>
-                    <div class="social social-gray">
-                        <a class="social-github" href="https://flock.com/in/"><i class="fa fa-globe"></i></a>
-                        <a class="social-twitter" href="https://twitter.com/Flock"><i class="fa fa-twitter"></i></a>
-                    </div>
                 </div>
             </div>
 
@@ -49,10 +42,6 @@
                         Lal Bahadur Shastri Institute of Management
                         <small>Venue Partner</small>
                     </h5>
-                    <div class="social social-gray">
-                        <a class="social-github" href="http://www.lbsim.ac.in/"><i class="fa fa-globe"></i></a>
-                        <a class="social-twitter" href="https://twitter.com/LBSIMOnline"><i class="fa fa-twitter"></i></a>
-                    </div>
                 </div>
             </div>
 
