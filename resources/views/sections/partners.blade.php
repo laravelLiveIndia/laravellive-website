@@ -1,4 +1,4 @@
-<section class="section bg-grey-lighter svg-back3" id="partners-section">
+<section class="section bg-grey-lighter svg-back3" id="sponsors">
     <div class="container">
         <header class="section-header">
             <small><strong><i class="fa fa-handshake-o fa-2x"></i></strong></small>

@@ -1,6 +1,4 @@
-
-
-<section class="section svg-back2 bg-grey-lighter pb-0" id="timeline">
+<section class="section svg-back2" id="timeline">
     <header class="section-header">
         <small><strong><i class="fa fa-bullseye fa-2x"></i></strong></small>
         <h2 style="" class="text-grey-darkest">Timeline</h2>
