@@ -9797,7 +9797,7 @@ Main components
     top: 24px;
     left: 100%;
     border-color: transparent;
-    border-left-color: white;
+    border-left-color: #f8fafc;
   }
   .cd-timeline-content .cd-read-more {
     float: left;
@@ -9818,7 +9818,7 @@ Main components
     left: auto;
     right: 100%;
     border-color: transparent;
-    border-right-color: white;
+    border-right-color: #f8fafc;
   }
  
   .cd-timeline-block:nth-child(even) .cd-timeline-content .cd-date {
