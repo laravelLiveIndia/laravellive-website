@@ -9960,6 +9960,7 @@ Main components
   }
 }
 
-.team-2 img{
+.team-2 img.part{
   border-radius: 10px;
+  text-align: center;
 }
