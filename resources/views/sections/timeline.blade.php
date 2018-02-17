@@ -161,7 +161,7 @@
             </a>
             <!-- cd-timeline-img -->
             <div class="cd-timeline-content shadow-lg border-t-2 border-indigo-light bg-grey-lightest">
-                <h2>Warp up</h2>
+                <h2>Wrap up</h2>
                 <span class="cd-date">5:15 PM</span>
             </div>
             <!-- cd-timeline-content -->
