@@ -22,7 +22,7 @@
             </a>
             <!-- cd-timeline-img -->
             <div class="cd-timeline-content shadow-lg border-t-2 border-indigo-light bg-grey-lightest">
-                <h2>Welcome</h2>
+                <h2>Welcome Session</h2>
                 <span class="cd-date">10:00 AM</span>
             </div>
             <!-- cd-timeline-content -->
