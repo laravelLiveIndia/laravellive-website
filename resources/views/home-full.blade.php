@@ -39,7 +39,7 @@
             <main class="main-content">
                 @include('sections.about')
                 @include('sections.speakers')
-                @include('sections.timeline')
+{{--                @include('sections.timeline')--}}
                 @include('sections.partners')
                 @include('sections.venue')
                 <div class=" fixed pin-r pin-b mr-20 mb-40">

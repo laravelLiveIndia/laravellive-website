@@ -14,7 +14,7 @@
                     </a>
                     <h5>
                         Laravel Certification
-                        <small>Title Sponsor</small>
+                        <small>Gold Sponsor</small>
                     </h5>
                 </div>
             </div>
@@ -26,7 +26,19 @@
                     </a>
                     <h5>
                         Flock
-                        <small>Silver Sponsor</small>
+                        <small>Community Partner</small>
+                    </h5>
+                </div>
+            </div>
+
+            <div class="col-12 col-md-3 col-lg-4 team-2">
+                <div class="shadow-lg rounded-lg bg-white mr-30 ml-30 p-30">
+                    <a href="https://innov8.work/">
+                        <img class="shadow-lg" src="https://pbs.twimg.com/profile_images/695676635379474432/iyJRbGvN_400x400.jpg" alt="..." style="width: 150px; height: 150px;">
+                    </a>
+                    <h5>
+                        Innov8
+                        <small>Community Partner</small>
                     </h5>
                 </div>
             </div>
