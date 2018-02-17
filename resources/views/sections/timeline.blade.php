@@ -5,24 +5,24 @@
     </header>
     <section id="cd-timeline" class="cd-container">
         <div class="cd-timeline-block" id="registration">
-            <a class="cd-timeline-img bg-grey-light" href="javascript:void(0)" data-scrollto="registration">
-                <i class="fa fa-user fa-2x text-white"></i>
+            <a class="cd-timeline-img bg-white border-4 border-grey-dark" href="javascript:void(0)" data-scrollto="registration">
+                <img src="{{ asset('images/registration.svg') }}" class="svg text-grey-darkest">
             </a>
             <!-- cd-timeline-img -->
-            <div class="cd-timeline-content shadow-lg border-t-2 border-indigo-light">
-                <p class="pull-right">Registration</p>
+            <div class="cd-timeline-content shadow-lg border-t-2 border-indigo">
+                <h2>Registration</h2>
                 <span class="cd-date">9:00 AM</span>
             </div>
             <!-- cd-timeline-content -->
         </div>
         <!-- cd-timeline-block -->
         <div class="cd-timeline-block" id="welcome">
-            <a class="cd-timeline-img cd-picture" href="javascript:void(0)" data-scrollto="welcome">
-                <img src="https://avatars3.githubusercontent.com/u/807318?s=150&v=3" >
+            <a class="cd-timeline-img bg-white border-4 border-grey-dark" href="javascript:void(0)" data-scrollto="welcome">
+                <img src="{{ asset('images/welcome.svg') }}" class="svg text-grey-darkest">
             </a>
             <!-- cd-timeline-img -->
             <div class="cd-timeline-content shadow-lg border-t-2 border-indigo-light">
-                <p>Welcome</p>
+                <h2>Welcome</h2>
                 <span class="cd-date">10:00 AM</span>
             </div>
             <!-- cd-timeline-content -->

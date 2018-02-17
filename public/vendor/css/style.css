@@ -285,6 +285,8 @@ Main components
   box-shadow: 0 15px 30px 0 rgba(0,0,0,.11),0 5px 15px 0 rgba(0,0,0,.08);
 }
 
+
+
 .cd-timeline-img:hover {
   animation: pulse2x 2s infinite;
   border:none;
@@ -298,7 +300,15 @@ Main components
 .cd-timeline-img > .fa {
   position: absolute;
   top: 20%;
-  left: 30%;
+  left: 20%;
+}
+
+.cd-timeline-img > .svg {
+  display: block;
+  position: relative;
+  margin: 12px;
+  border-radius: 0%;
+  fill: #8795a1;
 }
 @media only screen and (min-width: 1170px) {
   .cd-timeline-img {
@@ -319,6 +329,7 @@ Main components
     -moz-animation: cd-bounce-1 0.6s;
     animation: cd-bounce-1 0.6s;
   }
+  
 }
 
 @-webkit-keyframes cd-bounce-1 {
