@@ -614,3 +614,7 @@ Main components
     transform: translateX(0);
   }
 }
+
+.team-2 img{
+  border-radius: 10px;
+}

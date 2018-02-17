@@ -8,7 +8,7 @@
 
         <div class="row gap-y">
             <div class="col-12 col-md-3 col-lg-4 team-2">
-                <div class="shadow-lg rounded-xlg bg-white mr-30 ml-30 p-30">
+                <div class="shadow-lg rounded-lg bg-white mr-30 ml-30 p-30">
                     <a href="https://laravel.com/certification/">
                         <img class="shadow-lg" src="https://pbs.twimg.com/profile_images/902849483121115136/Mk6HortE_400x400.jpg" alt="..." style="width: 150px; height: 150px;">
                     </a>
