@@ -9640,6 +9640,11 @@ Main components
   position: relative;
   border-radius: 50%;
 }
+.cd-timeline-img > .fa {
+  position: absolute;
+  top: 20%;
+  left: 30%;
+}
 @media only screen and (min-width: 1170px) {
   .cd-timeline-img {
     width: 60px;

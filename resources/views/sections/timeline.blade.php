@@ -5,8 +5,8 @@
     </header>
     <section id="cd-timeline" class="cd-container">
         <div class="cd-timeline-block" id="registration">
-            <a class="cd-timeline-img cd-picture" href="javascript:void(0)" data-scrollto="registration">
-                <img src="https://avatars3.githubusercontent.com/u/807318?s=150&v=3" >
+            <a class="cd-timeline-img bg-grey-light" href="javascript:void(0)" data-scrollto="registration">
+                <i class="fa fa-user fa-2x text-white"></i>
             </a>
             <!-- cd-timeline-img -->
             <div class="cd-timeline-content shadow-lg border-t-2 border-indigo-light">
