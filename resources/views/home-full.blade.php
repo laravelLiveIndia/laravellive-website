@@ -42,6 +42,7 @@
                 @include('sections.timeline')
                 @include('sections.partners')
                 @include('sections.venue')
+                @include('sections.faq')
                 <div class=" fixed pin-r pin-b mr-20 mb-40">
                     <a href="//LaravelLiveIndia.flock.com?i=8jyqe5q1seeq81j5" target="_blank" class="btn btn-success btn-round">Join our LaravelLive India community</a>
                     <a href="//LaravelLiveIndia.flock.com?i=8jyqe5q1seeq81j5" target="_blank"><img src="{{ asset('images/flock.png') }}" class="pulse-flock" height="38"></a>

@@ -1,4 +1,4 @@
-<section class="section">
+<section class="section bg-grey-lighter svg-back3">
     <div class="container">
         <header class="section-header">
             <small><i class="fa fa-question fa-4x"></i></small>
@@ -6,7 +6,6 @@
             <hr>
             <p>Got a question? We've got answers. If you have some other questions, see our support center.</p>
         </header>
-
 
         <div class="row gap-y">
             <div class="col-md-6">
