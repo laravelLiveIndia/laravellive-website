@@ -1,49 +1,61 @@
-<section class="section">
+<section id="section-demo" class="section overflow-hidden bg-gray">
         <div class="container">
           <header class="section-header">
-            <small>FAQ</small>
-            <h2>Frequently Asked Questions</h2>
+            <small><i class="fa fa-hotel fa-4x"></i></small>
+            <h2>Stay & Explore</h2>
             <hr>
-            <p>Got a question? We've got answers. If you have some other questions, see our support center.</p>
           </header>
 
-
           <div class="row gap-y">
-            <div class="col-md-6">
-              <h5>What payment services do you support?</h5>
-              <p>We accept all major credit cards.</p>
+            <div class="col-6 col-lg-4 aos-init" data-aos="fade-up" data-aos-delay="0">
+              <a class="card shadow-1 hover-shadow-7" href="https://goo.gl/maps/ygAKRiJ4i8o">
+                <img class="card-img-top" src="https://image.wedmegood.com/resized/800X/uploads/member/23188/1445916895_welcome.jpg" alt="Demo">
+                <div class="card-body">
+                  <h5 class="fw-400 p-10">ITC Welcome Dwarka</h5>
+                </div>
+              </a>
             </div>
 
 
-            <div class="col-md-6">
-              <h5>Can I update my card details?</h5>
-              <p>Yes. Go to the billing section of your dashboard and update your payment information.</p>
+            <div class="col-6 col-lg-4 aos-init" data-aos="fade-up" data-aos-delay="150">
+              <a class="card shadow-1 hover-shadow-7 bg-grey-lightest" href="https://goo.gl/maps/zwGBJBhnKar">
+                <img class="card-img-top pt-30 pb-30" src="http://www.goldenpalmsuites.com/img/home-banner.jpg" alt="Demo">
+                <div class="card-body bg-white">
+                  <h5 class="fw-500 p-10">Golden Palm Suites</h5>
+                </div>
+              </a>
             </div>
 
 
-            <div class="col-md-6">
-              <h5>Is this a secure site for purchases?</h5>
-              <p>Absolutely! We work with top payment companies which guarantees your safety and security. All billing information is stored on our payment processing partner which has the most stringent level of certification available in the payments industry.</p>
+            <div class="col-6 col-lg-4 aos-init" data-aos="fade-up" data-aos-delay="300">
+              <a class="card shadow-1 hover-shadow-7" href="https://goo.gl/maps/KSdGWeRmPwt">
+                <img class="card-img-top" src="https://images.oyoroomscdn.com/uploads/hotel_image/2747/xlarge/3758664be39c93ec.jpg" alt="Demo">
+                <div class="card-body">
+                  <h5 class="fw-500 p-10">OYO 2082 Dwarka</h5>
+                </div>
+              </a>
             </div>
 
 
-            <div class="col-md-6">
-              <h5>Can I cancel my subscription?</h5>
-              <p>You can cancel your subscription anytime in your account. Once the subscription is cancelled, you will not be charged next month. You will continue to have access to your account until your current subscription expires.</p>
+            <div class="col-6 col-lg-4 aos-init" data-aos="fade-up" data-aos-delay="0">
+              <a class="card shadow-1 hover-shadow-7" href="https://goo.gl/maps/6zWPn7Tv6qB2">
+                <img class="card-img-top" src="https://t-ec.bstatic.com/images/hotel/max1024x768/131/131579915.jpg" alt="Demo">
+                <div class="card-body">
+                  <h5 class="fw-500 p-10">Le Tara Residency</h5>
+                </div>
+              </a>
             </div>
 
 
-            <div class="col-md-6">
-              <h5>How long are your contracts?</h5>
-              <p>Currently, we only offer monthly subscription. You can upgrade or cancel your monthly account at any time with no further obligation.</p>
+            <div class="col-6 col-lg-4 aos-init" data-aos="fade-up" data-aos-delay="150">
+              <a class="card shadow-1 hover-shadow-7" href="https://goo.gl/maps/RpsnQo1r6d62">
+                <img class="card-img-top" src="http://krishnaresidency.co.in/images/gallery/gallery-20.jpg" alt="Demo">
+                <div class="card-body">
+                  <h5 class="fw-500 p-10">Krishna Residency</h5>
+                </div>
+              </a>
             </div>
 
-
-            <div class="col-md-6">
-              <h5>Can I request refund?</h5>
-              <p>Unfortunately, not. We do not issue full or partial refunds for any reason.</p>
-            </div>
-          </div>
 
         </div>
       </section>
