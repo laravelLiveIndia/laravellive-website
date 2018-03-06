@@ -27,6 +27,8 @@
     <body id="home" class="header-bg-alt">
         <div id="app" class="shadow-md">
 
+            @include('sections.top-nav')
+
             <main class="main-content">
                 @include('sections.faq')
             </main>

@@ -12,7 +12,7 @@
 */
 
 Route::view('/', 'home-full');
-Route::view('hotel', 'hotel');
+Route::view('stay-and-explore', 'hotel');
 Route::view('faq', 'faq');
 Route::view('terms', 'terms');
 Route::post('subscribe','SubscriptionController@subscribe')->name('subscribe');
