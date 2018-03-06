@@ -27,7 +27,7 @@
     <body id="home" class="header-bg-alt">
         <div id="app" class="shadow-md">
 
-            @include('sections.top-nav')
+            @include('sections.top-nav-2')
 
             <main class="main-content">
                 @include('sections.hotel')
