@@ -28,7 +28,7 @@
         <div id="app" class="shadow-md">
 
             <main class="main-content">
-                @include('sections.hotel')
+                @include('sections.faq')
             </main>
             <!-- END Main container -->
 
