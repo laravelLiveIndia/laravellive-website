@@ -131,13 +131,12 @@
         </div>
         <!-- cd-timeline-block -->
         <div class="cd-timeline-block" id="neo">
-            <a class="cd-timeline-img cd-picture" href="javascript:void(0)" data-scrollto="neo">
-                <img src="https://avatars3.githubusercontent.com/u/807318?s=150&v=3" >
+            <a class="cd-timeline-img bg-white border-4 border-grey-dark" href="javascript:void(0)" data-scrollto="unconference">
+                <img src="{{ asset('images/random.svg') }}" class="svg text-grey-darkest">
             </a>
             <!-- cd-timeline-img -->
             <div class="cd-timeline-content shadow-lg border-t-2 border-indigo-light bg-grey-lightest">
-                <h2>Neo Ighodaro</h2>
-                <p>Demystifying Docker - Practical issues</p>
+                <h2>Speaker Session</h2>
                 <span class="cd-date">4:00 PM</span>
             </div>
             <!-- cd-timeline-content -->
