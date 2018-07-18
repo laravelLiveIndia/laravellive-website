@@ -15,9 +15,9 @@
                                  17 March 2018
                             </p>
 
-                           <a href="https://in.explara.com/e/laravelliveindia" class="btn btn-round btn-danger mt-40 btn-xl">
+                           {{-- <a href="https://in.explara.com/e/laravelliveindia" class="btn btn-round btn-danger mt-40 btn-xl">
                             Buy your tickets now <i class="fa fa-arrow-right"></i>
-                            </a>
+                            </a> --}}
                             {{-- <signup></signup> --}}
                         </div>
                     </div>
