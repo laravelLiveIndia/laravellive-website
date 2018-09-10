@@ -1,4 +1,4 @@
-<header class="header header-inverse bg-contain bg-center-bottom bg-grey-lighter pb-0 pt-0 h-fullscreen" style="background-image: url(images/bg/india.png);">
+<header class="header header-inverse bg-contain bg-center-bottom bg-grey-lighter pb-0 pt-0 h-fullscreen" style="background-image: url(http://laravellive.in/images/bg/india.png);">
     <!-- assets/img/15.jpg -->
     <div class="header-overlay header-bg-alt" style="opacity: .30;"></div>
     <div class="container">
