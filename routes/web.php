@@ -17,3 +17,6 @@ Route::view('faq', 'faq');
 Route::view('terms', 'terms');
 Route::post('subscribe','SubscriptionController@subscribe')->name('subscribe');
 // Route::get('get-members','SubscriptionController@getMembers')->name('get-members');
+
+// Meet-up routes
+Route::get('meetup/{city}', 'MeetupController@show');
