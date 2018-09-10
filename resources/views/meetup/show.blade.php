@@ -28,7 +28,7 @@
 <div id="app" class="shadow-md">
 
     <!-- Topbar -->
-@include('meetup.top-nav')
+{{--@include('meetup.top-nav')--}}
 <!-- END Topbar -->
 
     <!-- Header -->
