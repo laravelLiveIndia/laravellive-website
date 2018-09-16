@@ -18,6 +18,9 @@
                 <p class="fw-600 text-grey-darker text-lg" >
                     16 September 2018
                 </p>
+                <p class="fw-600 text-grey-darker text-lg">
+                    <img src="{{ asset('images/mozilla.png') }}" width="150px" alt="">
+                </p>
 
                 {{-- <a href="https://in.explara.com/e/laravelliveindia" class="btn btn-round btn-danger mt-40 btn-xl">
                  Buy your tickets now <i class="fa fa-arrow-right"></i>
